@@ -1,0 +1,380 @@
+{
+    "Architecture":  {
+        "font": "Quire Sans",
+        "image": {
+            "rounding": false,
+            "size": 1,
+            "rotation": 0,
+            "shadow": {
+                "type": "none"
+            }
+        }, 
+        "wantGradient": false,
+        "color": "#171723",
+        "theme": "white"
+    },
+    "Art":  {
+        "font": "Rockwell Extra Bold",
+        "image": {
+            "rounding": false,
+            "size": 1,
+            "rotation": 0,
+            "shadow": {
+                "type": "none"
+            }       
+        },
+        "hasImage": false,
+        "color": "#333332",
+        "wantsStartImage": true,
+        "theme": "#eaeced",
+        "startColor": "#333332",
+        "startPath": "../bg_images/art_start.png"
+    },
+    "Animals":  {
+        "font": "Lucida Bright",
+        "image": {
+            "rounding": false,
+            "size": 1,
+            "rotation": 0,
+            "shadow": {
+                "type": "none"
+            }
+        },
+        "wantGradient": false,
+        "color": "white",
+        "theme": "#637543"
+    },
+    "Biology":  {
+        "font": "Tw Cen MT Condensed Extra Bold",
+        "image": {
+            "rounding": false,
+            "size": 1,
+            "rotation": 0,
+            "shadow": {
+                "type": "none"
+            }
+        },
+        "color": "black",
+        "hasImage": true,
+        "path": "../bg_images/biology_start.png"
+    },
+    "Business":  {
+        "font": "Sabon Next LT",
+        "image": {
+            "rounding": false,
+            "size": 1,
+            "rotation": 0,
+            "shadow": {
+                "type": "none"
+            }
+        },
+        "wantGradient": false,
+        "color": "white",
+        "theme": "black"
+    },
+    "Chemistry":  {
+        "font": "Quire Sans",
+        "image": {
+            "rounding": false,
+            "size": 1,
+            "rotation": 0,
+            "shadow": {
+                "type": "none"
+            }
+        },
+        "hasImage": true,
+        "color": "white",
+        "path": "../bg_images/chemistry.jpg"
+    },
+    "Computer Programming":  {
+        "font": "Consolas",
+        "image": {
+            "rounding": false,
+            "size": 1,
+            "rotation": 0,
+            "shadow": {
+                "type": "none"
+            }
+        },
+        "hasImage": false,
+        "color": "white",
+        "theme": "black"
+    },
+    "Design":  {
+        "font": "Sagona Book Bold",
+        "image": {
+            "rounding": false,
+            "size": 1,
+            "rotation": 0,
+            "shadow": {
+                "type": "none"
+            }
+        },
+        "wantGradient": false,
+        "color": "#695251",
+        "theme": "#f7f6f2"
+    },
+    "Economics":  {
+        "font": "Palatino Linotype",
+        "image": {
+            "rounding": false,
+            "size": 1,
+            "rotation": 0,
+            "shadow": {
+                "type": "none"
+            }
+        },
+        "wantGradient": false,
+        "color": "#fd8d01",
+        "theme": "white"
+    },
+    "Electronics":  {
+        "font": "Avenir Next LT Pro Bold",
+        "image": {
+            "rounding": false,
+            "size": 1,
+            "rotation": 0,
+            "shadow": {
+                "type": "none"
+            }
+        },
+        "hasImage": false,
+        "color": "white",
+        "theme": "#162055"
+    },
+    "Engineering":  {
+        "font": "Sagona Book",
+        "image": {
+            "rounding": false,
+            "size": 1,
+            "rotation": 0,
+            "shadow": {
+                "type": "none"
+            }
+        },
+        "hasImage": true,
+        "color": "#2d3454",
+        "path": "../bg_images/engineering.png"
+    },
+    "Health":  {
+        "font": "Franklin Gothic Demi",
+        "image": {
+            "rounding": false,
+            "size": 1,
+            "rotation": 0,
+            "shadow": {
+                "type": "none"
+            }
+        },
+        "wantGradient": false,
+        "color": "#26797f",
+        "theme": "#f5fefe"
+    },
+    "History":  {
+        "font": "garamond",
+        "image": {
+            "rounding": false,
+            "size": 1,
+            "rotation": 0,
+            "shadow": {
+                "type": "none"
+            }
+        },
+        "wantGradient": false,
+        "hasImage": true,
+        "color": "#68523d",
+        "path": "../bg_images/history.jpg"
+    },
+    "Humans":  {
+        "font": "Quire Sans Pro Light",
+        "image": {
+            "rounding": false,
+            "size": 1,
+            "rotation": 0,
+            "shadow": {
+                "type": "none"
+            }
+        },
+        "color": "#F5F5DC",
+        "hasImage": true,
+        "path": "../bg_images/humans.jpg"
+    },
+    "Language":  {
+        "font": "Quire Sans",
+        "image": {
+            "rounding": false,
+            "size": 1,
+            "rotation": 0,
+            "shadow": {
+                "type": "none"
+            }
+        },
+        "wantGradient": false,
+        "color": "#333333",
+        "theme": "#F5F5F5"
+    },
+    "Geography":  {
+        "font": "Helvetica",
+        "image": {
+            "rounding": false,
+            "size": 1,
+            "rotation": 0,
+            "shadow": {
+                "type": "none"
+            }
+        },
+        "wantGradient": false,
+        "color": "white",
+        "theme": "pastel blue",
+        "wantsStartImage": true,
+        "startColor": "white",
+        "startPath": "../bg_images/geography_start.jpg"
+    },
+    "Law":  {
+        "font": "Avenir Next LT Pro Bold",
+        "image": {
+            "rounding": false,
+            "size": 1,
+            "rotation": 0,
+            "shadow": {
+                "type": "none"
+            }
+        },
+        "wantGradient": false,
+        "color": "#454b56",
+        "theme": "#f9f2e3"
+    },
+    "Music":  {
+        "font": "Avenir Next LT Pro",
+        "image": {
+            "rounding": false,
+            "size": 1,
+            "rotation": 0,
+            "shadow": {
+                "type": "none"
+            }
+        },
+        "wantGradient": false,
+        "color": "#402c74",
+        "theme": "#e7e2f5"
+    },
+    "Literature":  {
+        "font": "Bodoni",
+        "image": {
+            "rounding": false,
+            "size": 1,
+            "rotation": 0,
+            "shadow": {
+                "type": "none"
+            }
+        },
+        "hasImage": true,
+        "color": "#4d3529",
+        "path": "../bg_images/literature.jpg"
+    },
+    "Math":  {
+        "font": "Franklin Gothic Medium Condensed",
+        "image": {
+            "rounding": false,
+            "size": 1,
+            "rotation": 0,
+            "shadow": {
+                "type": "none"
+            }
+        },
+        "hasImage": true,
+        "color": "#1c2d5c",
+        "path": "../bg_images/literature.jpg"
+    },
+    "Medicine":  {
+        "font": "Arial Black",
+        "image": {
+            "rounding": false,
+            "size": 1,
+            "rotation": 0,
+            "shadow": {
+                "type": "none"
+            }
+        },
+        "wantGradient": false,
+        "color": "#231380",
+        "theme": "#f9f8fe"
+    },
+    "Physics":  {
+        "font": "Avenir Next LT Pro",
+        "image": {
+            "rounding": false,
+            "size": 1,
+            "rotation": 0,
+            "shadow": {
+                "type": "none"
+            }
+        },
+        "wantGradient": false,
+        "color": "#d9ceb6",
+        "theme": "#222933"
+    },
+    "Sport":  {
+        "font": "Franklin Gothic Medium Condensed",
+        "image": {
+            "rounding": false,
+            "size": 1,
+            "rotation": 0,
+            "shadow": {
+                "type": "none"
+            }
+        },
+        "wantGradient": false,
+        "color": "#3b3461",
+        "theme": "#f6f7fb"
+    },
+    "Science":  {
+        "font": "Arial",
+        "image": {
+            "rounding": false,
+            "size": 1,
+            "rotation": 0,
+            "shadow": {
+                "type": "none"
+            }
+        },
+        "hasImage": false,
+        "wantGradient": false,
+        "color": "white",
+        "theme": "#a0d5d6",
+        "wantsStartImage": true,
+        "startColor": "white",
+        "startPath": "../bg_images/science_start.jpg"
+    },
+    "Space": {
+        "font": "Arial",
+        "image": {
+            "rounding": false,
+            "size": 1,
+            "rotation": 0,
+            "shadow": {
+                "type": "none"
+            }
+        },
+        "hasImage": true,
+        "color": "white",
+        "path": "../bg_images/space.jpg"
+    },
+    "Firearms": {
+        "font": "Franklin Gothic Demi",
+        "image": {
+            "rounding": false,
+            "size": 1,
+            "rotation": 0,
+            "shadow": {
+                "type": "none"
+            }
+        },
+        "hasImage": false,
+        "color": "white",
+        "wantsStartImage": true,
+        "theme": "black",
+        "startColor": "#ffffff",
+        "startPath": "../bg_images/firearms_start.jpg"
+    }
+}
