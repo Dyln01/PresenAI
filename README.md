@@ -1,5 +1,5 @@
 # PresenAI
-PresenAi was a website on the domain presenai.com. I started the project 8 months ago when there was no one in the niche of presentation ai now its too hard for a 1 person to get big. You can do whatever you want with it.
+PresenAI is a tech site started by 1 person. PresenAI was first started 8 months ago when there was 0 compition in presentation ai tools. Now there is too much for 1 person to handle. You can do whatever you want with the source code
 
 You will need
 AI21 api key
