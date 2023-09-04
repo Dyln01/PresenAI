@@ -1,0 +1,42 @@
+{
+    "usd": [
+        "card",
+        "paypal"
+    ],
+    "eur": [
+        "card",
+        "ideal",
+        "sofort",
+        "paypal",
+        "sepa_debit"
+    ],
+    "jpy": [
+        "card"    
+    ],
+    "gbp": [
+        "card",
+        "bacs_debit",
+        "paypal"
+    ],
+    "cad": [
+        "card",        
+        "paypal"
+    ],
+    "aud": [
+        "card",
+        "paypal"
+    ],
+    "nzd": [
+        "card",
+        "paypal"
+    ],
+    "cny": [
+        "card",
+        "alipay"
+    ],
+    "hkd": [
+        "card",
+        "wechat",
+        "paypal"
+    ]
+}

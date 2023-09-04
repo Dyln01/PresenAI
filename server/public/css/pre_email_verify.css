@@ -1,0 +1,152 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 100vh;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3rem;
+  font-family: Poppins;
+  font-weight: 700;
+  margin: 138px auto 0;
+}
+
+.u-section-1 .u-form-1 {
+  height: 391px;
+  width: 570px;
+  margin: 43px auto 60px;
+}
+
+.u-section-1 .u-form-group-1 {
+  margin-left: 0;
+  font-family: Poppins;
+  font-weight: 500;
+}
+
+.u-section-1 .u-label-1 {
+  font-family: Poppins;
+  font-size: 1.25rem;
+  font-weight: 500;
+}
+
+.u-section-1 .u-input-1 {
+  font-family: Poppins;
+  font-weight: 300;
+  height: 50px;
+  font-size: 1rem;
+}
+
+.u-section-1 .u-form-group-2 {
+  margin-left: 0;
+  font-family: Poppins;
+  font-weight: 500;
+}
+
+.u-section-1 .u-label-2 {
+  font-family: Poppins;
+  font-size: 1.25rem;
+  font-weight: 500;
+}
+
+.u-section-1 .u-input-2 {
+  font-family: Poppins;
+  font-weight: 300;
+  height: 50px;
+  font-size: 1rem;
+}
+
+.u-section-1 .u-form-group-3 {
+  margin-left: 0;
+  font-family: Poppins;
+  font-weight: 500;
+}
+
+.u-section-1 .u-label-3 {
+  font-family: Poppins;
+  font-size: 1.25rem;
+  font-weight: 500;
+}
+
+.u-section-1 .u-input-3 {
+  font-family: Poppins;
+  font-weight: 300;
+  height: 50px;
+  font-size: 1rem;
+}
+
+.u-section-1 .u-form-group-4 {
+  margin-left: 0;
+  font-family: Poppins;
+  font-weight: 500;
+}
+
+.u-section-1 .u-label-4 {
+  font-family: Poppins;
+  font-size: 1.25rem;
+  font-weight: 500;
+}
+
+.u-section-1 .u-form-group-5 {
+  margin-left: 0;
+  font-family: Poppins;
+  font-weight: 500;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 1.125rem;
+  padding: 10px 51px 10px 50px;
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-form-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-1 .u-form-1 {
+    height: 381px;
+    width: 290px;
+    margin-top: 8px;
+  }
+
+  .u-section-1 .u-label-1 {
+    font-size: 1.125rem;
+  }
+
+  .u-section-1 .u-input-1 {
+    height: 40px;
+    font-size: 0.875rem;
+  }
+
+  .u-section-1 .u-label-2 {
+    font-size: 1.125rem;
+  }
+
+  .u-section-1 .u-input-2 {
+    height: 40px;
+    font-size: 0.875rem;
+  }
+
+  .u-section-1 .u-label-3 {
+    font-size: 1.125rem;
+  }
+
+  .u-section-1 .u-input-3 {
+    height: 40px;
+    font-size: 0.875rem;
+  }
+
+  .u-section-1 .u-label-4 {
+    font-size: 1.125rem;
+  }
+
+  .u-section-1 .u-btn-1 {
+    font-size: 1rem;
+  }
+}

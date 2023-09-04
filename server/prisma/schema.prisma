@@ -1,0 +1,27 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+model pptx {
+  id     String @unique(map: "Pptx_id_key")
+  name   String @unique(map: "Pptx_name_key")
+  path   String
+  userId Int
+  dateCreated DateTime
+}
+
+model user {
+  id              Int      @id @default(autoincrement())
+  email           String   @unique(map: "User_email_key")
+  password        String   
+  ip              String   @unique(map: "User_ip_key")
+  verifyId        String   @default("")
+  pptxLeft        Int      @default(0)
+  item            String   @default("")
+  accountStatus   Boolean  @default(false)
+}

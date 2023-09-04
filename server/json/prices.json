@@ -1,0 +1,73 @@
+[
+    {
+        "quanity": 1,
+        "price": 2,
+        "pricePerPres": 2,
+        "discount": 20
+    },
+    {
+        "quanity": 5,
+        "price": 7.5,
+        "pricePerPres": 1.5,
+        "discount": 20
+    },
+    {
+        "quanity": 10,
+        "price": 12.5,
+        "pricePerPres": 1.25,
+        "discount": 20
+    },
+    {
+        "quanity": 20,
+        "price": 24,
+        "pricePerPres": 1.20
+    },
+    {
+        "quanity": 30,
+        "price": 33,
+        "pricePerPres": 1.1,
+        "discount": 20
+    },
+    {
+        "quanity": 40,
+        "price": 42,
+        "pricePerPres": 1.05,
+        "discount": 20
+    },
+    {
+        "quanity": 50,
+        "price": 50,
+        "pricePerPres": 1,
+        "discount": 20
+    },
+    {
+        "quanity": 60,
+        "price": 57,
+        "pricePerPres": 0.95,
+        "discount": 20
+    },
+    {
+        "quanity": 70,
+        "price": 59.5,
+        "pricePerPres": 0.85,
+        "discount": 20
+    },
+    {
+        "quanity": 80,
+        "price": 64,
+        "pricePerPres": 0.8,
+        "discount": 20
+    },
+    {
+        "quanity": 90,
+        "price": 67.5,
+        "pricePerPres": 0.75,
+        "discount": 20
+    },
+    {
+        "quanity": 100,
+        "price": 70,
+        "pricePerPres": 0.7,
+        "discount": 20
+    }
+]

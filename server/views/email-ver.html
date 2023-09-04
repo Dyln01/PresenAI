@@ -1,0 +1,29 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h4>{{status}}</h4>
+    <button id="resend-btn">Resend Email</button>
+    <p id="resend-status"></p>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", async () => {
+            document.getElementById('resend-btn').addEventListener('click', async () => {
+                fetch('/register/resend', {
+                    method: 'POST',
+                }).then(async (res) => {
+                    if (typeof res !== 'string') {
+                        document.getElementById('resend-status').innerText = 'Email successfully resend.';
+                    } else {
+                        document.getElementById('resend-status').innerText = 'Failed to resend email.';
+                    };
+                });
+            });
+        })
+    </script>
+</body>
+</html>

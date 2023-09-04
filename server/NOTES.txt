@@ -1,0 +1,9 @@
+You will need:
+redis,
+a database,
+ai21 api key
+graphicsmagick,
+ghostscripts,
+libreoffice soffice
+
+and maybe more
